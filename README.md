@@ -1,4 +1,6 @@
-pouchdb-blob
+pouchdb-binary-util
 =========
 
-Blob shim for PouchDB.
+[![Build Status](https://travis-ci.org/pouchdb/binary-util.svg)](https://travis-ci.org/pouchdb/binary-util)
+
+Binary utils used in PouchDB.

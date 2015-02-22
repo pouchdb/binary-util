@@ -1,14 +1,14 @@
 {
-  "name": "pouchdb-blob",
+  "name": "pouchdb-binary-util",
   "version": "1.0.0",
-  "description": "Blob shim for PouchDB",
+  "description": "Binary utils used in PouchDB",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jshint -c .jshintrc index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pouchdb/blob.git"
+    "url": "https://github.com/pouchdb/binary-util.git"
   },
   "keywords": [
     "blob",
@@ -17,7 +17,10 @@
   "author": "Nolan Lawson <nolan.lawson@gmail.com>",
   "license": "Apache 2",
   "bugs": {
-    "url": "https://github.com/pouchdb/blob/issues"
+    "url": "https://github.com/pouchdb/binary-util/issues"
   },
-  "homepage": "https://github.com/pouchdb/blob"
+  "homepage": "https://github.com/pouchdb/binary-util",
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  }
 }
