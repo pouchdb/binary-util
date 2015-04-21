@@ -1,6 +1,6 @@
 {
   "name": "pouchdb-binary-util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Binary utils used in PouchDB",
   "main": "index.js",
   "scripts": {
