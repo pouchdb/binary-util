@@ -1,6 +1,8 @@
 pouchdb-binary-util
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pouchdb/binary-util.svg)](https://greenkeeper.io/)
+
 Deprecated
 ------
 
